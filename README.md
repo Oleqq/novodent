@@ -1,3 +1,3 @@
 # novodent
 
-oleqq.github.io/novodent
+https://oleqq.github.io/novodent/
